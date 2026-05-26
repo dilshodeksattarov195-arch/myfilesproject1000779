@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingfalidate",
+        "uuid": 2840234,
+        "checksum": "mt1iv9"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
